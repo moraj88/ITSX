@@ -71,13 +71,13 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
   <unicode value="es"></unicode>
   <string role="key" value="_learningResourceType"></string>
-  <unicode value=""></unicode>
+  <unicode value="master class"></unicode>
   <string role="key" value="_levelNames"></string>
   <list>
    <unicode value="Tema"></unicode>
@@ -1295,7 +1295,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;dl class=&quot;pbl-task-info&quot;&gt;&lt;dt class=&quot;pbl-task-participants&quot;&gt;&lt;span&gt;Número de estudiantes&lt;/span&gt;&lt;/dt&gt;&lt;dd class=&quot;pbl-task-participants&quot;&gt;1&lt;/dd&gt;&lt;/dl&gt;&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Elaborar un mapa conceptual sobre la estadística y su clasificación.&lt;/p&gt;
-&lt;p&gt;Remitir archivo PDF, del mapa conceptual, como evidencia de aprendizaje a la cuenta de correo electrónico &lt;a href=&quot;mailto:jesus.mora@itesx.edu.mx&quot; title=&quot;Correo Asesor&quot;&gt;jesus.mora@itesx.edu.mx&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Remitir archivo PDF, del mapa conceptual, como evidencia de aprendizaje a la cuenta de correo electrónico &lt;a href=&quot;mailto:jesus.mora@itsx.edu.mx&quot; title=&quot;Correo Asesor&quot;&gt;jesus.mora@itsx.edu.mx&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2455,7 +2455,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
             <instance class="exe.engine.node.Node" reference="41">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value="Distribuciones de frecuencias"></unicode>
+              <unicode value="1.2 Distribuciones de frecuencias"></unicode>
               <string role="key" value="idevices"></string>
               <list>
                <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
@@ -2539,6 +2539,8 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string value=""></string>
                     <string role="key" value="anchor_names"></string>
                     <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value=""></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2563,7 +2565,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <none></none>
+                    <reference key="41"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2603,7 +2605,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="exportType"></string>
               <string value="website"></string>
               <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:Distribuciones%20de%20frecuencias"></string>
+              <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.2%20Distribuciones%20de%20frecuencias"></string>
               <string role="key" value="parent"></string>
               <reference key="14"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2661,15 +2663,16 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
    <reference key="14"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
-  <unicode value=""></unicode>
+  <unicode value="Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones."></unicode>
   <string role="key" value="_preknowledge"></string>
-  <unicode value=""></unicode>
+  <unicode value="Plantea y resuelve problemas utilizando las definiciones de límite y derivada de funciones de una variable para la elaboración de modelos matemáticos aplicados.
+Aplica la definición de integral y las técnicas de integración para resolver problemas de ingeniería."></unicode>
   <string role="key" value="_templateFile"></string>
   <string value="Base"></string>
   <string role="key" value="backgroundImgTile"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="41"></reference>
+  <reference key="19"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2714,11 +2717,11 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
   <string role="key" value="exportSource"></string>
   <bool value="1"></bool>
   <string role="key" value="footer"></string>
-  <unicode value=""></unicode>
+  <unicode value="INSTITUTO TECNOLÓGICO SUPERIOR DE XALAPA"></unicode>
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
-  <unicode value="creative commons: attribution 4.0"></unicode>
+  <unicode value="None"></unicode>
   <string role="key" value="lom"></string>
   <instance class="exe.engine.lom.lomsubs.lomSub">
    <dictionary>
@@ -2808,7 +2811,43 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         </instance>
        </list>
        <string role="key" value="description"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.descriptionSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="CONOCIMIENTO PREVIO: Plantea y resuelve problemas utilizando las definiciones de límite y derivada de funciones de una variable para la elaboración de modelos matemáticos aplicados.
+Aplica la definición de integral y las técnicas de integración para resolver problemas de ingeniería."></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.descriptionSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="OBJETIVOS: Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones."></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
@@ -2864,7 +2903,42 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         </instance>
        </list>
        <string role="key" value="learningResourceType"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOMv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="lecture"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="semanticDensity"></string>
        <none></none>
        <string role="key" value="typicalAgeRange"></string>
@@ -3369,7 +3443,43 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         </instance>
        </list>
        <string role="key" value="description"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.descriptionSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="CONOCIMIENTO PREVIO: Plantea y resuelve problemas utilizando las definiciones de límite y derivada de funciones de una variable para la elaboración de modelos matemáticos aplicados.
+Aplica la definición de integral y las técnicas de integración para resolver problemas de ingeniería."></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <instance class="exe.engine.lom.lomsubs.descriptionSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="es"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="OBJETIVOS: Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones."></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="difficulty"></string>
        <none></none>
        <string role="key" value="intendedEndUserRole"></string>
@@ -3425,7 +3535,42 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         </instance>
        </list>
        <string role="key" value="learningResourceType"></string>
-       <list></list>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.learningResourceTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.learningResourceTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="master class"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+       </list>
        <string role="key" value="semanticDensity"></string>
        <none></none>
        <string role="key" value="typicalAgeRange"></string>
@@ -3884,7 +4029,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
           <string role="key" value="value"></string>
           <none></none>
           <string role="key" value="valueOf_"></string>
-          <string value="creative commons: attribution"></string>
+          <string value="None"></string>
          </dictionary>
         </instance>
        </dictionary>
@@ -3922,7 +4067,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="Todo-FP-1"></unicode>
+  <unicode value="INTEF"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
