@@ -87,13 +87,13 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
   <string role="key" value="_name"></string>
   <unicode value="Clase"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="24"></int>
+  <int value="49"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="13"></int>
+  <int value="16"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
-   <instance class="exe.engine.node.Node" reference="7">
+   <instance class="exe.engine.node.Node" reference="12">
     <dictionary>
      <string role="key" value="_title"></string>
      <unicode value="Probabilidad y Estadística Descriptiva"></unicode>
@@ -207,8 +207,8 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Plantea y resuelve problemas utilizando las definiciones de límite y derivada de funciones de una variable para la elaboración de modelos matemáticos aplicados.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Aplica la definición de integral y las técnicas de integración para resolver problemas de ingeniería.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Plantea y resuelve problemas utilizando las definiciones de límite y derivada de funciones de una variable para la elaboración de modelos matemáticos aplicados.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Aplica la definición de integral y las técnicas de integración para resolver problemas de ingeniería.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -343,7 +343,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -394,6 +394,287 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
            <int value="0"></int>
           </dictionary>
          </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="7">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_editionFolder"></string>
+           <string value="text/edition/"></string>
+           <string role="key" value="_editionResources"></string>
+           <list>
+            <string value="text.js"></string>
+           </list>
+           <string role="key" value="_exportFolder"></string>
+           <none></none>
+           <string role="key" value="_exportResources"></string>
+           <list></list>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="C:\\Users\\JES\xdaS MORA JUSTO\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="0"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="8">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="50_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="7"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <string content="true" value=""></string>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="8"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="37"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="4"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="9">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="File Attachments"></unicode>
+           <string role="key" value="_author"></string>
+           <unicode value="Toughra Technologies FZ LLC."></unicode>
+           <string role="key" value="_purpose"></string>
+           <unicode value="File Attachments Idevice."></unicode>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.fileattachidevice.FileAttachIdeviceInc.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="fileAttachmentFields"></string>
+           <list>
+            <instance class="exe.engine.extendedfieldengine.FileField" reference="10">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <int value="83"></int>
+              <string role="key" value="_idevice"></string>
+              <reference key="9"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value="File Field Help"></string>
+              <string role="key" value="_name"></string>
+              <string value="File Field"></string>
+              <string role="key" value="alwaysNameTo"></string>
+              <none></none>
+              <string role="key" value="exe.engine.extendedfieldengine.FileField.persistenceVersion"></string>
+              <int value="5"></int>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="fileDescription"></string>
+              <instance class="exe.engine.field.TextField">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="84"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="10"></reference>
+                <string role="key" value="_instruc"></string>
+                <string value=""></string>
+                <string role="key" value="_name"></string>
+                <string value="Description"></string>
+                <string role="key" value="content"></string>
+                <unicode value="cedecevaluoexperienciadeaula.pdf"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+               </dictionary>
+              </instance>
+              <string role="key" value="fileInstruc"></string>
+              <string value="Upload a file"></string>
+              <string role="key" value="fileResource"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="fileAttachmentsDesc"></string>
+           <list></list>
+           <string role="key" value="icon"></string>
+           <string value="assignment"></string>
+           <string role="key" value="id"></string>
+           <unicode value="48"></unicode>
+           <string role="key" value="introHTML"></string>
+           <instance class="exe.engine.field.TextAreaField" reference="11">
+            <dictionary>
+             <string role="key" value="_id"></string>
+             <int value="82"></int>
+             <string role="key" value="_idevice"></string>
+             <reference key="9"></reference>
+             <string role="key" value="_instruc"></string>
+             <string value="Instructions"></string>
+             <string role="key" value="_name"></string>
+             <string value="Instructions"></string>
+             <string role="key" value="anchor_names"></string>
+             <list></list>
+             <string role="key" value="anchors_linked_from_fields"></string>
+             <dictionary></dictionary>
+             <string role="key" value="content_w_resourcePaths"></string>
+             <unicode content="true" value=""></unicode>
+             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+             <int value="4"></int>
+             <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+             <int value="2"></int>
+             <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+             <int value="3"></int>
+             <string role="key" value="htmlTag"></string>
+             <string value="div"></string>
+             <string role="key" value="images"></string>
+             <instance class="exe.engine.galleryidevice.GalleryImages">
+              <dictionary>
+               <string role="key" value=".listitems"></string>
+               <list></list>
+               <string role="key" value="idevice"></string>
+               <reference key="11"></reference>
+              </dictionary>
+             </instance>
+             <string role="key" value="intlinks_to_anchors"></string>
+             <dictionary></dictionary>
+             <string role="key" value="nextImageId"></string>
+             <int value="0"></int>
+             <string role="key" value="parentNode"></string>
+             <none></none>
+            </dictionary>
+           </instance>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="4"></reference>
+           <string role="key" value="showDesc"></string>
+           <instance class="exe.engine.extendedfieldengine.ChoiceField">
+            <dictionary>
+             <string role="key" value="_id"></string>
+             <int value="81"></int>
+             <string role="key" value="_idevice"></string>
+             <reference key="9"></reference>
+             <string role="key" value="_instruc"></string>
+             <string value="Show Description"></string>
+             <string role="key" value="_name"></string>
+             <string value="Show description and link"></string>
+             <string role="key" value="content"></string>
+             <unicode value="yes"></unicode>
+             <string role="key" value="exe.engine.extendedfieldengine.ChoiceField.persistenceVersion"></string>
+             <int value="3"></int>
+             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+             <int value="4"></int>
+             <string role="key" value="options"></string>
+             <list>
+              <list>
+               <string value="yes"></string>
+               <string value="Yes"></string>
+              </list>
+              <list>
+               <string value="no"></string>
+               <string value="No"></string>
+              </list>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="0"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
         </list>
         <string role="key" value="_id"></string>
         <unicode value="5"></unicode>
@@ -408,14 +689,14 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Portada"></string>
         <string role="key" value="parent"></string>
-        <reference key="7"></reference>
+        <reference key="12"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="11">
+      <instance class="exe.engine.node.Node" reference="16">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Contenido"></unicode>
@@ -434,18 +715,18 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido"></string>
         <string role="key" value="parent"></string>
-        <reference key="7"></reference>
+        <reference key="12"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="10">
+         <instance class="exe.engine.node.Node" reference="15">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Introducción"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="8">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Para empezar..."></unicode>
@@ -514,12 +795,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="9">
+               <instance class="exe.engine.field.TextAreaField" reference="14">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="52_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="8"></reference>
+                 <reference key="13"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -529,11 +810,11 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Esta asignatura aporta al perfil del Ingeniero en Gestión Empresarial las herramientas metodológicas, para el análisis, caracterización,  interpretación y predicción de los distintos fenómenos o devenires de las empresas actuales en el mundo globalizado que nos estás tocando vivir.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Puesto que esta asignatura dará soporte a otras, más directamente vinculadas con desempeños  profesionales se inserta en la primera mitad de la trayectoria escolar antes de cursar aquéllas a las que da soporte. De manera particular, lo trabajado en esta asignatura se aplica en el estudio de los temas: tendencias de mercados, satisfacción de clientes, calidad, entre otros.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Así como capacitar al estudiante para el análisis e interpretación de datos para tomar mejores decisiones, sustentar convincentemente sus propuestas, proyectos e informes.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;En el presente trabajo, encontrará información que le será útil para la materia de Probabilidad y Estadística Descriptiva, orientada a la Ingeniería en Gestión Empresarial.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Alguno de los tantos aportes que podemos encontrar en el estudio de dicha materia, en el área de probabilidad es el poder anticipar o pronosticar el clima para cada día, determinar patrones en base a un número determinado de observaciones, la predicción de un número o el poder considerar el resultado que será más factible que caiga en los juegos de azar; por el lado de la estadística, se puede presentar la información en gráficas para así determinar como actúa un conjunto de datos, que características tiene así como sus necesidades.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Esta asignatura aporta al perfil del Ingeniero en Gestión Empresarial las herramientas metodológicas, para el análisis, caracterización,  interpretación y predicción de los distintos fenómenos o devenires de las empresas actuales en el mundo globalizado que nos estás tocando vivir.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Puesto que esta asignatura dará soporte a otras, más directamente vinculadas con desempeños  profesionales se inserta en la primera mitad de la trayectoria escolar antes de cursar aquéllas a las que da soporte. De manera particular, lo trabajado en esta asignatura se aplica en el estudio de los temas: tendencias de mercados, satisfacción de clientes, calidad, entre otros.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Así como capacitar al estudiante para el análisis e interpretación de datos para tomar mejores decisiones, sustentar convincentemente sus propuestas, proyectos e informes.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;En el presente trabajo, encontrará información que le será útil para la materia de Probabilidad y Estadística Descriptiva, orientada a la Ingeniería en Gestión Empresarial.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Alguno de los tantos aportes que podemos encontrar en el estudio de dicha materia, en el área de probabilidad es el poder anticipar o pronosticar el clima para cada día, determinar patrones en base a un número determinado de observaciones, la predicción de un número o el poder considerar el resultado que será más factible que caiga en los juegos de azar; por el lado de la estadística, se puede presentar la información en gráficas para así determinar como actúa un conjunto de datos, que características tiene así como sus necesidades.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -548,7 +829,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="9"></reference>
+                   <reference key="14"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -556,7 +837,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="10"></reference>
+                 <reference key="15"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -573,7 +854,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="10"></reference>
+              <reference key="15"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -598,20 +879,20 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Introducci%C3%B3n"></string>
            <string role="key" value="parent"></string>
-           <reference key="11"></reference>
+           <reference key="16"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="14">
+         <instance class="exe.engine.node.Node" reference="19">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Unidad 1 Distribuciones de Frecuencia"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="12">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="17">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué es la estadística descriptiva?"></unicode>
@@ -680,12 +961,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="13">
+               <instance class="exe.engine.field.TextAreaField" reference="18">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="53_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="12"></reference>
+                 <reference key="17"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -695,7 +976,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La estadística descriptiva es la técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos con el propósito de facilitar el uso, generalmente con el apoyo de tablas, medidas numéricas o gráficas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La estadística descriptiva es la técnica matemática que obtiene, organiza, presenta y describe un conjunto de datos con el propósito de facilitar el uso, generalmente con el apoyo de tablas, medidas numéricas o gráficas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -710,7 +991,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="13"></reference>
+                   <reference key="18"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -718,7 +999,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="14"></reference>
+                 <reference key="19"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -735,7 +1016,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="14"></reference>
+              <reference key="19"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -746,7 +1027,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="15">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="20">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Actividad de aprendizaje del tema"></unicode>
@@ -815,12 +1096,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="16">
+               <instance class="exe.engine.field.TextAreaField" reference="21">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="57_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="15"></reference>
+                 <reference key="20"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -833,22 +1114,22 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;table border=&quot;0&quot; style=&quot;width: 98.1378%; border-style: outset; margin-left: auto; margin-right: auto;&quot;&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&quot;width: 44.918%; text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 16px; font-family: 'times new roman', times, serif;&quot;&gt;Competencias&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 1.69753%; text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 16px; font-family: 'times new roman', times, serif;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 52.449%; text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 16px; font-family: 'times new roman', times, serif;&quot;&gt;Actividades de Aprendizaje&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 44.918%; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Competencias&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 1.69753%; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 52.449%; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Actividades de Aprendizaje&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;text-align: justify;&quot;&gt;
 &lt;td style=&quot;width: 44.918%; vertical-align: top; text-align: justify;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Específicas:&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Recopila conjuntos de datos tomados de una situación real para interpretarlos de manera estadística y de forma gráfica.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Genéricas:&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Capacidad de abstracción, análisis y síntesis, habilidad para trabajar de forma autónoma, capacidad para identificar, plantear y resolver problemas, habilidades en el uso de las tecnologías de la información y de la comunicación.&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Específicas:&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Recopila conjuntos de datos tomados de una situación real para interpretarlos de manera estadística y de forma gráfica.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Genéricas:&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Capacidad de abstracción, análisis y síntesis, habilidad para trabajar de forma autónoma, capacidad para identificar, plantear y resolver problemas, habilidades en el uso de las tecnologías de la información y de la comunicación.&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;td style=&quot;width: 1.69753%; vertical-align: top;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style=&quot;width: 52.449%; vertical-align: top;&quot;&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Elaborar un mapa conceptual sobre la estadística y su clasificación.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br /&gt;Investigar y discutir en clase los conceptos de medidas de tendencia central, de posición y de dispersión. Presentar sus conclusiones en un reporte.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br /&gt;Recopilar un conjunto aproximado a 30 datos, obtener sus estadísticos descriptivos y seleccionar la alternativa gráfica que mejor los represente.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Elaborar un mapa conceptual sobre la estadística y su clasificación.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;br /&gt;Investigar y discutir en clase los conceptos de medidas de tendencia central, de posición y de dispersión. Presentar sus conclusiones en un reporte.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;br /&gt;Recopilar un conjunto aproximado a 30 datos, obtener sus estadísticos descriptivos y seleccionar la alternativa gráfica que mejor los represente.&lt;/span&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -867,7 +1148,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="16"></reference>
+                   <reference key="21"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -875,7 +1156,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="14"></reference>
+                 <reference key="19"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -892,7 +1173,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="14"></reference>
+              <reference key="19"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -917,18 +1198,18 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia"></string>
            <string role="key" value="parent"></string>
-           <reference key="11"></reference>
+           <reference key="16"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list>
-            <instance class="exe.engine.node.Node" reference="19">
+            <instance class="exe.engine.node.Node" reference="24">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="1.1 Definición y Clasificación de la Estadística"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="17">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="22">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Definición de estadística"></unicode>
@@ -997,12 +1278,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="18">
+                  <instance class="exe.engine.field.TextAreaField" reference="23">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="55_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="17"></reference>
+                    <reference key="22"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1012,13 +1293,13 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;estadístico, ca&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La forma f., del al. Statistik, y este der. del it. statista 'hombre de Estado'.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;1. adj. Perteneciente o relativo a la estadística.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;2. m. y f. Especialista en estadística.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;strong&gt;3. f. Estudio de los datos cuantitativos de la población, de los recursos naturales e industriales, del tráfico o de cualquier otra manifestación de las sociedades humanas.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;4. f. Conjunto de datos estadísticos.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;strong&gt;5. f. Rama de la matemática que utiliza grandes conjuntos de datos numéricos para obtener inferencias basadas en el cálculo de probabilidades.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;https://dle.rae.es/?id=GjpDTiC&quot; title=&quot;Definición de estadística RAE&quot;&gt;REAL ACADEMIA ESPAÑOLA: Diccionario de la lengua española, 23.ª ed., [versión 23.2 en línea]. &amp;lt;https://dle.rae.es&amp;gt; [26 de agosto de 2019].&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;estadístico, ca&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La forma f., del al. Statistik, y este der. del it. statista 'hombre de Estado'.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;1. adj. Perteneciente o relativo a la estadística.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;2. m. y f. Especialista en estadística.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;3. f. Estudio de los datos cuantitativos de la población, de los recursos naturales e industriales, del tráfico o de cualquier otra manifestación de las sociedades humanas.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;4. f. Conjunto de datos estadísticos.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;5. f. Rama de la matemática que utiliza grandes conjuntos de datos numéricos para obtener inferencias basadas en el cálculo de probabilidades.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: 'times new roman', times, serif;&quot;&gt;&lt;a href=&quot;https://dle.rae.es/?id=GjpDTiC&quot; title=&quot;Definición de estadística RAE&quot;&gt;REAL ACADEMIA ESPAÑOLA: Diccionario de la lengua española, 23.ª ed., [versión 23.2 en línea]. &lt;https: dle=&quot;&quot; rae=&quot;&quot; es=&quot;&quot;&gt; [26 de agosto de 2019].&lt;/https:&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1033,7 +1314,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="18"></reference>
+                      <reference key="23"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1041,7 +1322,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="19"></reference>
+                    <reference key="24"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1058,7 +1339,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="19"></reference>
+                 <reference key="24"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1069,7 +1350,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="20">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Clasificación de la estadística"></unicode>
@@ -1138,12 +1419,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="21">
+                  <instance class="exe.engine.field.TextAreaField" reference="26">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="56_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="20"></reference>
+                    <reference key="25"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1153,12 +1434,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La estadística para su mejor estudio se ha dividido en dos ramas las cuales son: estadística descriptiva y estadística inferencial.&lt;/span&gt;&lt;/p&gt;
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La estadística para su mejor estudio se ha dividido en dos ramas las cuales son: estadística descriptiva y estadística inferencial.&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;ESTADÍSTICA DESCRIPTIVA: Consiste en la presentación de datos en forma de tablas y gráficas. Esta comprende cualquier actividad para resumir o describir los mismos factores pertinentes adicionales, esto se refiere a no intentar nada que vaya más allá de los datos.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;ESTADÍSTICA INFERENCIAL: Se deriva de las observaciones hechas solo a una parte de un conjunto numeroso de elementos; implicando así que su análisis requiera de generalizaciones que van más allá de los datos, como consecuencia la característica más importante del crecimiento de la estadística ha sido un cambio en el énfasis de los métodos que sirven para generalizarlas. En otras palabras la estadística inferencial investiga y analiza una población partiendo de una muestra tomada.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;ESTADÍSTICA DESCRIPTIVA: Consiste en la presentación de datos en forma de tablas y gráficas. Esta comprende cualquier actividad para resumir o describir los mismos factores pertinentes adicionales, esto se refiere a no intentar nada que vaya más allá de los datos.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;ESTADÍSTICA INFERENCIAL: Se deriva de las observaciones hechas solo a una parte de un conjunto numeroso de elementos; implicando así que su análisis requiera de generalizaciones que van más allá de los datos, como consecuencia la característica más importante del crecimiento de la estadística ha sido un cambio en el énfasis de los métodos que sirven para generalizarlas. En otras palabras la estadística inferencial investiga y analiza una población partiendo de una muestra tomada.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;(Levin I. &amp;amp; S. Rubin, 1996)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;(Levin I. &amp;amp; S. Rubin, 1996)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1173,7 +1454,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="21"></reference>
+                      <reference key="26"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1181,7 +1462,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="19"></reference>
+                    <reference key="24"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1198,7 +1479,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="19"></reference>
+                 <reference key="24"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1209,7 +1490,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="22">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Tarea 1 Mapa conceptual sobre la estadística y su clasificación."></unicode>
@@ -1279,12 +1560,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="23">
+                  <instance class="exe.engine.field.TextAreaField" reference="28">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="58_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="22"></reference>
+                    <reference key="27"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1294,8 +1575,8 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;dl class=&quot;pbl-task-info&quot;&gt;&lt;dt class=&quot;pbl-task-participants&quot;&gt;&lt;span&gt;Número de estudiantes&lt;/span&gt;&lt;/dt&gt;&lt;dd class=&quot;pbl-task-participants&quot;&gt;1&lt;/dd&gt;&lt;/dl&gt;&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;Elaborar un mapa conceptual sobre la estadística y su clasificación.&lt;/p&gt;
-&lt;p&gt;Remitir archivo PDF, del mapa conceptual, como evidencia de aprendizaje a la cuenta de correo electrónico &lt;a href=&quot;mailto:jesus.mora@itsx.edu.mx&quot; title=&quot;Correo Asesor&quot;&gt;jesus.mora@itsx.edu.mx&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;dl class=&quot;pbl-task-info&quot;&gt;&lt;dt class=&quot;pbl-task-participants&quot;&gt;&lt;span&gt;Número de estudiantes&lt;/span&gt;&lt;/dt&gt;&lt;dd class=&quot;pbl-task-participants&quot;&gt;1&lt;/dd&gt;&lt;/dl&gt;&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Elaborar un mapa conceptual sobre la estadística y su clasificación.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Remitir archivo PDF, del mapa conceptual, como evidencia de aprendizaje a la cuenta de correo electrónico &lt;a href=&quot;mailto:jesus.mora@itsx.edu.mx&quot; title=&quot;Correo Asesor&quot;&gt;jesus.mora@itsx.edu.mx&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1310,7 +1591,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="23"></reference>
+                      <reference key="28"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1318,7 +1599,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="19"></reference>
+                    <reference key="24"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1335,7 +1616,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <unicode value="activity"></unicode>
                  <string role="key" value="parentNode"></string>
-                 <reference key="19"></reference>
+                 <reference key="24"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1360,20 +1641,20 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.1%20Definici%C3%B3n%20y%20Clasificaci%C3%B3n%20de%20la%20Estad%C3%ADstica"></string>
               <string role="key" value="parent"></string>
-              <reference key="14"></reference>
+              <reference key="19"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="26">
+            <instance class="exe.engine.node.Node" reference="31">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="1.1 Recopilación de datos"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Introducción"></unicode>
@@ -1442,12 +1723,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="25">
+                  <instance class="exe.engine.field.TextAreaField" reference="30">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="59_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="24"></reference>
+                    <reference key="29"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1457,8 +1738,8 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La recolección de datos se refiere al uso de una gran diversidad de técnicas y herramientas que pueden ser utilizadas por el analista para desarrollar los sistemas de información, los cuales pueden ser la entrevistas, la encuesta, el cuestionario, la observación, el diagrama de flujo y el diccionario de datos.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Todos estos instrumentos se aplicará en un momento en particular, con la finalidad de buscar información que será útil a una investigación en común. En la presente investigación trata con detalle los pasos que se debe seguir en el proceso de recolección de datos, con las técnicas ya antes nombradas.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La recolección de datos se refiere al uso de una gran diversidad de técnicas y herramientas que pueden ser utilizadas por el analista para desarrollar los sistemas de información, los cuales pueden ser la entrevistas, la encuesta, el cuestionario, la observación, el diagrama de flujo y el diccionario de datos.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Todos estos instrumentos se aplicarán en un momento en particular, con la finalidad de buscar información que será útil a una investigación en común.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1473,7 +1754,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="25"></reference>
+                      <reference key="30"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1481,7 +1762,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1498,7 +1779,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1509,7 +1790,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="32">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Técnicas para hallar datos"></unicode>
@@ -1578,12 +1859,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="28">
+                  <instance class="exe.engine.field.TextAreaField" reference="33">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="61_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="27"></reference>
+                    <reference key="32"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1593,14 +1874,14 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Los analistas utilizan una variedad de métodos a fin de recopilar los datos sobre una situación existente, como entrevistas, cuestionarios, inspección de registros (revisión en el sitio) y observación. Cada uno tiene ventajas y desventajas. Generalmente, se utilizan dos o tres para complementar el trabajo de cada una y ayudar a asegurar una investigación completa.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Las 5 principales técnicas de recolección de datos son:&lt;/span&gt;&lt;/p&gt;
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Los analistas utilizan una variedad de métodos a fin de recopilar los datos sobre una situación existente, como entrevistas, cuestionarios, inspección de registros (revisión en el sitio) y observación. Cada uno tiene ventajas y desventajas. Generalmente, se utilizan dos o tres para complementar el trabajo de cada una y ayudar a asegurar una investigación completa.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Las 5 principales técnicas de recolección de datos son:&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Entrevistas&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La encuesta&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La observación&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Diccionario de datos&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Diagrama de flujo&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Entrevistas&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La encuesta&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La observación&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Diccionario de datos&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Diagrama de flujo&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
@@ -1616,7 +1897,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="28"></reference>
+                      <reference key="33"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1624,7 +1905,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1641,7 +1922,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1652,7 +1933,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="29">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="34">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Entrevista"></unicode>
@@ -1721,12 +2002,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="30">
+                  <instance class="exe.engine.field.TextAreaField" reference="35">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="63_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="29"></reference>
+                    <reference key="34"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1736,20 +2017,19 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La entrevista es una conversación dirigida, con un propósito especifico y que usa un formato de preguntas y respuestas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Se establece así un diálogo, pero un diálogo peculiar, asimétrico, donde una de las partes busca recoger informaciones y la otra se nos presenta como fuente de estas informaciones.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Una entrevista es un dialogo en el que la persona (entrevistador), generalmente un periodista hace una serie de preguntas a otra persona (entrevistado), con el fin de conocer mejor sus ideas, sus sentimientos su forma de actuar.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Preparación de la Entrevista&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La entrevista es una conversación dirigida, con un propósito especifico y que usa un formato de preguntas y respuestas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Se establece así un diálogo, pero un diálogo peculiar, asimétrico, donde una de las partes busca recoger informaciones y la otra se nos presenta como fuente de estas informaciones.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Una entrevista es un dialogo en el que la persona (entrevistador), generalmente un periodista hace una serie de preguntas a otra persona (entrevistado), con el fin de conocer mejor sus ideas, sus sentimientos, su forma de actuar.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Preparación de la Entrevista&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ol style=&quot;text-align: justify;&quot;&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Determinar la posición que ocupa de la organización el futuro entrevistado, sus responsabilidades básicas, actividades, etc. (Investigación). &lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Preparar las preguntas que van a plantearse, y los documentos necesarios (Organización).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Fijar un límite de tiempo y preparar la agenda para la entrevista. (Psicología).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Elegir un lugar donde se puede conducir la entrevista con la mayor comodidad (PSicología).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Hacer la cita con la debida anticipación (Planeación).&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Determinar la posición que ocupa en la organización el futuro entrevistado, sus responsabilidades básicas, actividades, etc. (Investigación). &lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Preparar las preguntas que van a plantearse, y los documentos necesarios (Organización).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Fijar un límite de tiempo y preparar la agenda para la entrevista. (Psicología).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Elegir un lugar donde se puede conducir la entrevista con la mayor comodidad (Psicología).&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Hacer la cita con la debida anticipación (Planeación).&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;br /&gt;&lt;strong&gt;Tipo de preguntas&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;br /&gt;*Preguntas abiertas: Son aquellas preguntas que describen hechos o situaciones por parte del entrevistado con una gran cantidad de detalles que a juicio del entrevistado son importantes.&lt;br /&gt;*Preguntas cerradas :En las preguntas cerradas las respuestas posibles están cerradas al entrevistado, debido a que solamente puede responder con un numero finito, tal como “ninguno”, “uno”, o “quince”. Una pregunta cerrada limita las respuestas disponibles al entrevistado.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Tipo de preguntas&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;*Preguntas abiertas: Son aquellas preguntas que describen hechos o situaciones por parte del entrevistado con una gran cantidad de detalles que a juicio del entrevistado son importantes.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;*Preguntas cerradas :En las preguntas cerradas las respuestas posibles están cerradas al entrevistado, debido a que solamente puede responder con un numero finito, tal como “ninguno”, “uno”, o “quince”. Una pregunta cerrada limita las respuestas disponibles al entrevistado.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1764,7 +2044,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="30"></reference>
+                      <reference key="35"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1772,7 +2052,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1789,7 +2069,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1800,7 +2080,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="31">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="36">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Observación"></unicode>
@@ -1869,12 +2149,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="32">
+                  <instance class="exe.engine.field.TextAreaField" reference="37">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="65_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="31"></reference>
+                    <reference key="36"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -1884,23 +2164,23 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La observación es otra técnica útil para el analista en su proceso de investigación, consiste en observar a las personas cuando efectúan su trabajo.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La observación es una técnica de observación de hechos durante la cual el analista participa activamente actúa como espectador de las actividades llevadas a cabo por una persona para conocer mejor su sistema.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El propósito de la observación es múltiple, permite al analista determinar que se está haciendo, como se está haciendo, quien lo hace, cuando se lleva a cabo, cuánto tiempo toma, donde se hace y porque se hace.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Tipos de observación&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El analista puede observar de tres maneras básicas:&lt;/span&gt;&lt;/p&gt;
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La observación es otra técnica útil para el analista en su proceso de investigación, consiste en observar a las personas cuando efectúan su trabajo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La observación es una técnica de observación de hechos durante la cual el analista participa activamente, actúa como espectador de las actividades llevadas a cabo por una persona para conocer mejor su sistema.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El propósito de la observación es múltiple, permite al analista determinar que se está haciendo, como se está haciendo, quien lo hace, cuando se lleva a cabo, cuánto tiempo toma, donde se hace y porque se hace.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Tipos de observación&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El analista puede observar de tres maneras básicas:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Puede observar a una persona o actividad sin que el observado se dé cuenta y sin interactuar por parte del propio analista.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El analista puede observar una operación sin intervenir para nada, pero estando la persona observada enteramente consiente de la observación.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Se puede observar y estar en contacto con las personas observadas. La interrogación puede consistir simplemente en preguntar respecto a una actividad específica, pedir una explicación, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Puede observar a una persona o actividad sin que el observado se dé cuenta y sin interactuar por parte del propio analista.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El analista puede observar una operación sin intervenir para nada, pero estando la persona observada enteramente consiente de la observación.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Se puede observar y estar en contacto con las personas observadas. La interrogación puede consistir simplemente en preguntar respecto a una actividad específica, pedir una explicación, etc.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La observación puede emplearse para verificar los resultados de una entrevista, o bien como preparación de esta. También es otra técnica valiosa para recopilar datos que implican relaciones. La observación tiende a adquirir mayor sentido al nivel técnico del procesamiento de datos, donde las tareas se cuantifican más fácilmente. Entre estas tareas encontramos la recopilación, acumulación y transformación de los datos.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Pasos de la observación&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La observación puede emplearse para verificar los resultados de una entrevista, o bien como preparación de esta. También es otra técnica valiosa para recopilar datos que implican relaciones. La observación tiende a adquirir mayor sentido al nivel técnico del procesamiento de datos, donde las tareas se cuantifican más fácilmente. Entre estas tareas encontramos la recopilación, acumulación y transformación de los datos.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Pasos de la observación&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Determinar y definir aquello que se va a observar.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Estimar el tiempo necesario de observación.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Obtener la autorización para llevar a cabo la observación.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Explicar a las personas que van a ser observadas lo que se va hacer y las razones para ello.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Determinar y definir aquello que se va a observar.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Estimar el tiempo necesario de observación.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Obtener la autorización para llevar a cabo la observación.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Explicar a las personas que van a ser observadas lo que se va hacer y las razones para ello.&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
@@ -1916,7 +2196,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="32"></reference>
+                      <reference key="37"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -1924,7 +2204,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -1941,7 +2221,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -1952,7 +2232,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="33">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="La encuesta"></unicode>
@@ -2021,12 +2301,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="34">
+                  <instance class="exe.engine.field.TextAreaField" reference="39">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="66_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="33"></reference>
+                    <reference key="38"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2036,17 +2316,17 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Una encuesta es un conjunto de preguntas normalizadas dirigidas a una muestra representativa de la población o instituciones, con el fin de conocer estados de opinión o hechos específicos.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La intención de la encuesta no es describir los individuos particulares quienes, por azar, son parte de la muestra sino obtener un perfil compuesto de la población.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Una &quot;encuesta&quot; recoge información de una &quot;muestra.&quot; Una &quot;muestra&quot; es usualmente sólo una porción de la población bajo estudio.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Los cuestionarios proporcionan una alternativa muy útil para la entrevista; sin embargo, existen ciertas características que pueden ser apropiada en algunas situaciones e inapropiadas en otra. Al igual que la entrevistas, deben diseñarse cuidadosamente para una máxima efectividad.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Selección de formas para cuestionarios&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El desarrollo y distribución de los cuestionarios; por lo tanto, el tiempo invertido en esto debe utilizarse en una forma inteligente. También es importante el formato y contenido de las preguntas en la recopilación de hechos significativos.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Existen dos formas de cuestionarios para recabar datos: cuestionarios abiertos y cerrados, y se aplican dependiendo de si los analistas conocen de antemano todas las posibles respuestas de las preguntas y pueden incluirlas. Con frecuencia se utilizan ambas formas en los estudios de sistemas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario abierto&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Al igual que las entrevistas, los cuestionarios pueden ser abiertos y se aplican cuando se quieren conocer los sentimientos, opiniones y experiencias generales; también son útiles al explorar el problema básico, por ejemplo, un analista que utiliza cuestionarios para estudiar los métodos de verificación de crédito es un medio.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El formato abierto proporciona una amplia oportunidad para quienes respondan escriba las razones de sus ideas. Algunas personas, sin embargo, encuentran más fácil escoger una de un conjunto de respuestas preparadas que pensar por sí mismas.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario cerrado&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El cuestionario cerrado limita las respuestas posibles del interrogado. Por medio de un cuidadoso estilo en la pregunta, el analista puede controlar el marco de referencia. Este formato es el método para obtener información sobre los hechos. También fuerza a los individuos para que tomen una posición y forma su opinión sobre los aspectos importantes.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Una encuesta es un conjunto de preguntas normalizadas dirigidas a una muestra representativa de la población o instituciones, con el fin de conocer estados de opinión o hechos específicos.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La intención de la encuesta no es describir los individuos particulares quienes, por azar, son parte de la muestra sino obtener un perfil compuesto de la población.&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Una &quot;encuesta&quot; recoge información de una &quot;muestra.&quot; Una &quot;muestra&quot; es usualmente sólo una porción de la población bajo estudio.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Los cuestionarios proporcionan una alternativa muy útil para la entrevista; sin embargo, existen ciertas características que pueden ser apropiada en algunas situaciones e inapropiadas en otra. Al igual que la entrevistas, deben diseñarse cuidadosamente para una máxima efectividad.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Selección de formas para cuestionarios&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El desarrollo y distribución de los cuestionarios; por lo tanto, el tiempo invertido en esto debe utilizarse en una forma inteligente. También es importante el formato y contenido de las preguntas en la recopilación de hechos significativos.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Existen dos formas de cuestionarios para recabar datos: cuestionarios abiertos y cerrados, y se aplican dependiendo de si los analistas conocen de antemano todas las posibles respuestas de las preguntas y pueden incluirlas. Con frecuencia se utilizan ambas formas en los estudios de sistemas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario abierto&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Al igual que las entrevistas, los cuestionarios pueden ser abiertos y se aplican cuando se quieren conocer los sentimientos, opiniones y experiencias generales; también son útiles al explorar el problema básico, por ejemplo, un analista que utiliza cuestionarios para estudiar los métodos de verificación de crédito es un medio.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El formato abierto proporciona una amplia oportunidad para quienes respondan escriba las razones de sus ideas. Algunas personas, sin embargo, encuentran más fácil escoger una de un conjunto de respuestas preparadas que pensar por sí mismas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuestionario cerrado&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El cuestionario cerrado limita las respuestas posibles del interrogado. Por medio de un cuidadoso estilo en la pregunta, el analista puede controlar el marco de referencia. Este formato es el método para obtener información sobre los hechos. También fuerza a los individuos para que tomen una posición y forma su opinión sobre los aspectos importantes.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2061,7 +2341,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="34"></reference>
+                      <reference key="39"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2069,7 +2349,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2086,7 +2366,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2097,7 +2377,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="40">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Diagrama de flujo"></unicode>
@@ -2166,12 +2446,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="36">
+                  <instance class="exe.engine.field.TextAreaField" reference="41">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="67_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="35"></reference>
+                    <reference key="40"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2181,52 +2461,52 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Es una representación pictórica de los pasos en proceso. Útil para determinar cómo funciona realmente el proceso para producir un resultado. Los diagramas de flujo se pueden aplicar a cualquier aspecto del proceso desde el flujo de materiales hasta los pasos para hacer la venta u ofrecer un producto.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Cuándo se utiliza un Diagrama De Flujo?&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuando un equipo necesita ver cómo funciona realmente un proceso completo. Este esfuerzo con frecuencia revela problemas potenciales tales como cuellos de botella en el sistema, pasos innecesarios y círculos de duplicación de trabajo.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Identificación de las causas principales:&lt;/span&gt;&lt;/p&gt;
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Es una representación pictórica de los pasos en proceso. Útil para determinar cómo funciona realmente el proceso para producir un resultado. Los diagramas de flujo se pueden aplicar a cualquier aspecto del proceso desde el flujo de materiales hasta los pasos para hacer la venta u ofrecer un producto.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Cuándo se utiliza un Diagrama De Flujo?&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Cuando un equipo necesita ver cómo funciona realmente un proceso completo. Este esfuerzo con frecuencia revela problemas potenciales tales como cuellos de botella en el sistema, pasos innecesarios y círculos de duplicación de trabajo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Identificación de las causas principales:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Desarrollar planes para reunir datos.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Generar teorías sobre las causas principales.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Discutir las formas de estratificar los datos para el análisis para identificar las causas principales.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Examinar el tiempo requerido para las diferentes vías del proceso.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Desarrollar planes para reunir datos.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Generar teorías sobre las causas principales.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Discutir las formas de estratificar los datos para el análisis para identificar las causas principales.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Examinar el tiempo requerido para las diferentes vías del proceso.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Diseño de soluciones&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Diseño de soluciones&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Describir los cambios potenciales en el proceso y sus efectos potenciales.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Identificar las organizaciones que será afectadas por los cambios propuestos.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Describir los cambios potenciales en el proceso y sus efectos potenciales.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Identificar las organizaciones que será afectadas por los cambios propuestos.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Aplicaciones de soluciones:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Aplicaciones de soluciones:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Explicar otros el proceso actual y la solución propuesta.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Superar la resistencia al cambio demostrando cómo los cambios propuestos simplificarán el proceso.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Explicar otros el proceso actual y la solución propuesta.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Superar la resistencia al cambio demostrando cómo los cambios propuestos simplificarán el proceso.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Cómo se Utiliza?&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;La metodología para preparar un Diagrama de Flujo es;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Cómo se Utiliza?&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;La metodología para preparar un Diagrama de Flujo es;&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;PROPÓSITO: analizar cómo se pretende utilizar el Diagrama de Flujo. Exhibir esta hoja en la pared y consultarla en cualquier momento para verificar que se Diagrama de Flujo es apropiado para las aplicaciones que se pretende.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;DETERMINAR EL NIVEL DE DETALLE REQUERIDO.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;DEFINIR LOS LIMITES: después de establecer los límites del proceso, enumerar los resultados y los clientes en el extremo derecho del diagrama.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;UTILIZAR SÍMBOLOS APROPIADOS: utilizando los símbolos apropiados para el Diagrama de Flujo, presentar las respuestas como los primeros pasos en el diagrama.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;HACER PREGUNTAS: para cada entrada, haga preguntas como:&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;PROPÓSITO: analizar cómo se pretende utilizar el Diagrama de Flujo. Exhibir esta hoja en la pared y consultarla en cualquier momento para verificar que se Diagrama de Flujo es apropiado para las aplicaciones que se pretende.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;DETERMINAR EL NIVEL DE DETALLE REQUERIDO.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;DEFINIR LOS LIMITES: después de establecer los límites del proceso, enumerar los resultados y los clientes en el extremo derecho del diagrama.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;UTILIZAR SÍMBOLOS APROPIADOS: utilizando los símbolos apropiados para el Diagrama de Flujo, presentar las respuestas como los primeros pasos en el diagrama.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;HACER PREGUNTAS: para cada entrada, haga preguntas como:&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Quién recibe la entrada?&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Qué es lo primero que se hace con la entrada?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Quién recibe la entrada?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Qué es lo primero que se hace con la entrada?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;DOCUMENTAR: cada paso en la secuencia, empezando con el primer (ó último) pasó. Para cada paso, hacer preguntas como:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;DOCUMENTAR: cada paso en la secuencia, empezando con el primer (ó último) pasó. Para cada paso, hacer preguntas como:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Qué produce este paso?&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Quién recibe este resultado?&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Qué pasa después?&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Alguno de los pasos requiere de entradas que actualmente no se muestran?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Qué produce este paso?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Quién recibe este resultado?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Qué pasa después?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Alguno de los pasos requiere de entradas que actualmente no se muestran?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;COMPLETAR: continuar la construcción del Diagrama de Flujo hasta que se conecte todos los resultados (salidas) definidos en el extremo derecho del diagrama. Si se encuentra un segmento del proceso que es extraña para todos en el salón, se deberá tomar nota y continuar haciendo el diagrama.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;REVISIÓN: Preguntar&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;COMPLETAR: continuar la construcción del Diagrama de Flujo hasta que se conecte todos los resultados (salidas) definidos en el extremo derecho del diagrama. Si se encuentra un segmento del proceso que es extraña para todos en el salón, se deberá tomar nota y continuar haciendo el diagrama.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;REVISIÓN: Preguntar&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿Todos los flujos de información encajan en las entadas y salidas del proceso?&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿El Diagrama muestra la naturaleza serial y paralela de los pasos?&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;¿El Diagrama capta de forma exacta lo que realmente ocurrió, a diferencia de la forma cómo se piensa que las cosas deberías pasar o como fueron diseñadas originalmente?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿Todos los flujos de información encajan en las entadas y salidas del proceso?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿El Diagrama muestra la naturaleza serial y paralela de los pasos?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;¿El Diagrama capta de forma exacta lo que realmente ocurrió, a diferencia de la forma cómo se piensa que las cosas deberías pasar o como fueron diseñadas originalmente?&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
@@ -2242,7 +2522,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="36"></reference>
+                      <reference key="41"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2250,7 +2530,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2267,7 +2547,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2278,7 +2558,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="42">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Diccionario de datos"></unicode>
@@ -2347,12 +2627,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="38">
+                  <instance class="exe.engine.field.TextAreaField" reference="43">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="70_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="37"></reference>
+                    <reference key="42"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2362,25 +2642,25 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Los diccionarios de datos son el segundo componente del análisis del flujo de datos. En sí mismos los diagramas de flujo de datos no describen por completo el objeto de la investigación. El diccionario de datos proporciona información adicional sobre el sistema.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Un diccionario de datos es una lista de todos los elementos incluido en el conjunto de los diagramas de flujo de datos que describen un sistema. Los elementos principales en un sistema, estudiados en las secciones anteriores, son el flujo de datos, el almacenamiento de datos y los procesos. El diccionario de datos almacena detalles y descripciones de estos elementos.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Si los analistas desean conocer cuántos caracteres hay en un dato, con qué otros nombres se le conocen en el sistema, o en donde se utilizan dentro del sistema deben ser capaces de encontrar la respuesta en un diccionario de datos desarrollado apropiadamente.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;El diccionario de dato se desarrolla durante el análisis de flujo de datos y ayuda el analista involucrado en la determinación de los requerimientos de sistemas. Sin embargo, como se verá más adelante, también el contenido del diccionario de datos se utiliza durante el diseño del sistema.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;En informática, base de datos acerca de la terminología que se utilizará en un sistema de información. Para comprender mejor el significado de un diccionario de datos, puede considerarse su contenido como &quot;datos acerca de los datos&quot;; es decir, descripciones de todos los demás objetos (archivos, programas, informes, sinónimos...) existentes en el sistema. Un diccionario de datos almacena la totalidad de los diversos esquemas y especificaciones de archivos, así como sus ubicaciones. Si es completo incluye también información acerca de qué programas utilizan qué datos, y qué usuarios están interesados en unos u otros informes. Por lo general, el diccionario de datos está integrado en el sistema de información que describe.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Descripción de los datos en el diccionario&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cada entrada en el diccionario de dato consiste en un conjunto de detalles que describen los datos utilizados o producidos en el sistema. Cada artículo se identifica por un nombre de dato, descripción, sinónimo y longitud de campo y tiene valores específicos que se permiten para éste en el sistema estudiado.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Nombre de los Datos&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Para distinguir un dato de otro, los analistas les asignan nombres significativos que se utilizan para tener una referencia de cada elemento a través del proceso total de desarrollo de sistemas. Por lo tanto, debe tenerse cuidado para seleccionar, en forma significativa y entendible, los nombres de los datos, por ejemplo, la fecha de factura es más significativa si se llama FECHA FACTURA que si se le conoce como ABCXXX.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Descripción de los Datos&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Establece brevemente lo que representa el dato en el sistema; por ejemplo, la descripción para FECHA-DE-FACTURA indica que es la fecha en la cual se está preparando la misma (para distinguirla de la fecha en la que se envió por correo o se recibió. Las descripciones de datos se deben escribir suponiendo que a gente que los lea no conoce nada en relación del sistema. Deben evitarse termino especiales o argot, todas las palabras deben se entendible para el lector&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Alias&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Con frecuencia el mismo dato puede conocerse con diferentes nombres, dependiendo de quién lo utilice. El uso de los alias debe evitar confusión. Un diccionario de dato significativo incluirá todos los alias.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Longitud de campo&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Cuando las características del diseño del sistema se ejecuten más tarde en el proceso de desarrollo del sistema, será importante conocer la cantidad de espacio que necesita para cada dato.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Valores de los datos&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;En algunos procesos solo se permiten valores de datos específicos. Por ejemplo, en muchas compañías con frecuencia los números de orden de compra se proporcionan con un prefijo de una letra para indicar el departamento del origen.&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Registro de las descripciones de datos&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Dadas que las descripciones se utilizarán en forma repetitiva a través de una información y después, durante el diseño, se sugiere un formato fácil para utilizar que simplifique el registro y los detalles de consulta cuando se necesiten&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Los diccionarios de datos son el segundo componente del análisis del flujo de datos. En sí mismos los diagramas de flujo de datos no describen por completo el objeto de la investigación. El diccionario de datos proporciona información adicional sobre el sistema.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Un diccionario de datos es una lista de todos los elementos incluido en el conjunto de los diagramas de flujo de datos que describen un sistema. Los elementos principales en un sistema, estudiados en las secciones anteriores, son el flujo de datos, el almacenamiento de datos y los procesos. El diccionario de datos almacena detalles y descripciones de estos elementos.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Si los analistas desean conocer cuántos caracteres hay en un dato, con qué otros nombres se le conocen en el sistema, o en donde se utilizan dentro del sistema deben ser capaces de encontrar la respuesta en un diccionario de datos desarrollado apropiadamente.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;El diccionario de dato se desarrolla durante el análisis de flujo de datos y ayuda el analista involucrado en la determinación de los requerimientos de sistemas. Sin embargo, como se verá más adelante, también el contenido del diccionario de datos se utiliza durante el diseño del sistema.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;En informática, base de datos acerca de la terminología que se utilizará en un sistema de información. Para comprender mejor el significado de un diccionario de datos, puede considerarse su contenido como &quot;datos acerca de los datos&quot;; es decir, descripciones de todos los demás objetos (archivos, programas, informes, sinónimos...) existentes en el sistema. Un diccionario de datos almacena la totalidad de los diversos esquemas y especificaciones de archivos, así como sus ubicaciones. Si es completo incluye también información acerca de qué programas utilizan qué datos, y qué usuarios están interesados en unos u otros informes. Por lo general, el diccionario de datos está integrado en el sistema de información que describe.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Descripción de los datos en el diccionario&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Cada entrada en el diccionario de dato consiste en un conjunto de detalles que describen los datos utilizados o producidos en el sistema. Cada artículo se identifica por un nombre de dato, descripción, sinónimo y longitud de campo y tiene valores específicos que se permiten para éste en el sistema estudiado.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Nombre de los Datos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Para distinguir un dato de otro, los analistas les asignan nombres significativos que se utilizan para tener una referencia de cada elemento a través del proceso total de desarrollo de sistemas. Por lo tanto, debe tenerse cuidado para seleccionar, en forma significativa y entendible, los nombres de los datos, por ejemplo, la fecha de factura es más significativa si se llama FECHA FACTURA que si se le conoce como ABCXXX.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Descripción de los Datos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Establece brevemente lo que representa el dato en el sistema; por ejemplo, la descripción para FECHA-DE-FACTURA indica que es la fecha en la cual se está preparando la misma (para distinguirla de la fecha en la que se envió por correo o se recibió. Las descripciones de datos se deben escribir suponiendo que a gente que los lea no conoce nada en relación del sistema. Deben evitarse termino especiales o argot, todas las palabras deben se entendible para el lector&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Alias&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Con frecuencia el mismo dato puede conocerse con diferentes nombres, dependiendo de quién lo utilice. El uso de los alias debe evitar confusión. Un diccionario de dato significativo incluirá todos los alias.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Longitud de campo&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Cuando las características del diseño del sistema se ejecuten más tarde en el proceso de desarrollo del sistema, será importante conocer la cantidad de espacio que necesita para cada dato.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Valores de los datos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;En algunos procesos solo se permiten valores de datos específicos. Por ejemplo, en muchas compañías con frecuencia los números de orden de compra se proporcionan con un prefijo de una letra para indicar el departamento del origen.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Registro de las descripciones de datos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Dadas que las descripciones se utilizarán en forma repetitiva a través de una información y después, durante el diseño, se sugiere un formato fácil para utilizar que simplifique el registro y los detalles de consulta cuando se necesiten&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2395,7 +2675,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="38"></reference>
+                      <reference key="43"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2403,7 +2683,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="26"></reference>
+                    <reference key="31"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2420,7 +2700,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="26"></reference>
+                 <reference key="31"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2445,20 +2725,20 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.1%20Recopilaci%C3%B3n%20de%20datos"></string>
               <string role="key" value="parent"></string>
-              <reference key="14"></reference>
+              <reference key="19"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="41">
+            <instance class="exe.engine.node.Node" reference="46">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="1.2 Distribuciones de frecuencias"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="44">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value=""></unicode>
@@ -2527,12 +2807,12 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="40">
+                  <instance class="exe.engine.field.TextAreaField" reference="45">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="48_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="39"></reference>
+                    <reference key="44"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -2557,7 +2837,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="40"></reference>
+                      <reference key="45"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -2565,7 +2845,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="41"></reference>
+                    <reference key="46"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -2582,7 +2862,7 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="41"></reference>
+                 <reference key="46"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -2607,11 +2887,450 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.2%20Distribuciones%20de%20frecuencias"></string>
               <string role="key" value="parent"></string>
-              <reference key="14"></reference>
+              <reference key="19"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
-              <list></list>
+              <list>
+               <instance class="exe.engine.node.Node" reference="49">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Conceptos Estadísticos"></unicode>
+                 <string role="key" value="idevices"></string>
+                 <list>
+                  <instance class="exe.engine.jsidevice.JsIdevice" reference="47">
+                   <dictionary>
+                    <string role="key" value="_title"></string>
+                    <unicode value="Conceptos estadísticos"></unicode>
+                    <string role="key" value="_attributes"></string>
+                    <list>
+                     <tuple>
+                      <string value="title"></string>
+                      <list>
+                       <string value="Title"></string>
+                       <int value="0"></int>
+                       <int value="0"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="category"></string>
+                      <list>
+                       <string value="Category"></string>
+                       <int value="0"></int>
+                       <int value="1"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="css-class"></string>
+                      <list>
+                       <string value="CSS class"></string>
+                       <int value="0"></int>
+                       <int value="2"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="icon"></string>
+                      <list>
+                       <string value="Icon"></string>
+                       <int value="0"></int>
+                       <int value="3"></int>
+                      </list>
+                     </tuple>
+                    </list>
+                    <string role="key" value="_author"></string>
+                    <string value=""></string>
+                    <string role="key" value="_editionFolder"></string>
+                    <string value="text/edition/"></string>
+                    <string role="key" value="_editionResources"></string>
+                    <list>
+                     <string value="text.js"></string>
+                    </list>
+                    <string role="key" value="_exportFolder"></string>
+                    <none></none>
+                    <string role="key" value="_exportResources"></string>
+                    <list></list>
+                    <string role="key" value="_iDeviceDir"></string>
+                    <string value="C:\\Users\\JES\xdaS MORA JUSTO\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+                    <string role="key" value="_purpose"></string>
+                    <string value=""></string>
+                    <string role="key" value="_tip"></string>
+                    <string value=""></string>
+                    <string role="key" value="_valid"></string>
+                    <bool value="1"></bool>
+                    <string role="key" value="class_"></string>
+                    <unicode value="text"></unicode>
+                    <string role="key" value="edit"></string>
+                    <bool value="0"></bool>
+                    <string role="key" value="emphasis"></string>
+                    <int value="1"></int>
+                    <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                    <int value="1"></int>
+                    <string role="key" value="fields"></string>
+                    <list>
+                     <instance class="exe.engine.field.TextAreaField" reference="48">
+                      <dictionary>
+                       <string role="key" value="_id"></string>
+                       <unicode value="48_2"></unicode>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="47"></reference>
+                       <string role="key" value="_instruc"></string>
+                       <string value=""></string>
+                       <string role="key" value="_name"></string>
+                       <string value=""></string>
+                       <string role="key" value="anchor_names"></string>
+                       <list></list>
+                       <string role="key" value="anchors_linked_from_fields"></string>
+                       <dictionary></dictionary>
+                       <string role="key" value="content_w_resourcePaths"></string>
+                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Variable:&lt;/strong&gt; Característica que puede presentar distintas modalidades. Por ejemplo, la variable &quot;género&quot; solo presenta dos modalidades (mujer y hombre), y la variable &quot;depresión&quot; presenta un número infinito de modalidades, (las magnitudes de gravedad con que puede afectar a las personas).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Constante:&lt;/strong&gt; Característica que presenta una sola modalidad&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt; Datos:&lt;/strong&gt; Son números que representan las modalidades de las variables. Por ejemplo, el 1 puede representar la modalidad &quot;Mujer&quot;, el 6.3 representa una de las magnitudes que podemos registrar en la variable &quot;grado de conocimiento de las técnicas estadísticas&quot;. Los datos pueden ser clasificados según diferentes criterios, uno de los cuales se basa en las modalidades que presentan: Se dirá que son datos dicotómicos los que provienen de variables que solo admiten dos modalidades (por ejemplo, la variable &quot;género&quot;), son datos dicotomizados aquellos que presentan dos categorías pero provienen de variables con más de dos modalidades (por ejemplo datos con valores 1 y 0 que representan aprobado y suspenso).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Población:&lt;/strong&gt; Conjunto completo de individuos, objetos o fenómenos.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Muestra:&lt;/strong&gt; Subconjunto de la población.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Muestreo:&lt;/strong&gt; Procedimiento de selección de las muestras.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Representatividad de la muestra:&lt;/strong&gt; Las muestras son partes de la población, pero no son la población completa. Por ello, sus características no suelen coincidir con las de la población. La medida en que la muestra aproxima a la población se denomina representatividad.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Sesgo:&lt;/strong&gt; Es la discrepancia entre las características de las muestras y las de la población.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Análisis univariado:&lt;/strong&gt; Analiza una sola variable. Es más sencillo, más fácil de entender y de interpretar. En cambio, la sencillez puede comportar una simplificación excesiva de la realidad. Por ejemplo, un investigador quiere hacer un estudio del rendimiento académico universitario, para lo cual recoge las calificaciones de los estudiantes en los exámenes finales. Es claro que una caracterización del rendimiento basada exclusivamente en las calificaciones académicas es incompleta y que, si queremos conocer los condicionantes del rendimiento deberíamos incluir otros variables (como actitud, preparación previa, etc.) y estudiar cómo interactúan para dar cuenta de las variables de interés.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                       <int value="4"></int>
+                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                       <int value="3"></int>
+                       <string role="key" value="htmlTag"></string>
+                       <string value="div"></string>
+                       <string role="key" value="images"></string>
+                       <instance class="exe.engine.galleryidevice.GalleryImages">
+                        <dictionary>
+                         <string role="key" value=".listitems"></string>
+                         <list></list>
+                         <string role="key" value="idevice"></string>
+                         <reference key="48"></reference>
+                        </dictionary>
+                       </instance>
+                       <string role="key" value="intlinks_to_anchors"></string>
+                       <dictionary></dictionary>
+                       <string role="key" value="nextImageId"></string>
+                       <int value="0"></int>
+                       <string role="key" value="parentNode"></string>
+                       <reference key="49"></reference>
+                      </dictionary>
+                     </instance>
+                    </list>
+                    <string role="key" value="icon"></string>
+                    <unicode value=""></unicode>
+                    <string role="key" value="id"></string>
+                    <unicode value="24"></unicode>
+                    <string role="key" value="ideviceCategory"></string>
+                    <unicode value="Text and Tasks"></unicode>
+                    <string role="key" value="lastIdevice"></string>
+                    <bool value="0"></bool>
+                    <string role="key" value="nextFieldId"></string>
+                    <int value="3"></int>
+                    <string role="key" value="originalicon"></string>
+                    <string value=""></string>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="49"></reference>
+                    <string role="key" value="systemResources"></string>
+                    <list></list>
+                    <string role="key" value="undo"></string>
+                    <bool value="1"></bool>
+                    <string role="key" value="userResources"></string>
+                    <list></list>
+                    <string role="key" value="version"></string>
+                    <int value="0"></int>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="_id"></string>
+                 <unicode value="13"></unicode>
+                 <string role="key" value="_package"></string>
+                 <reference key="1"></reference>
+                 <string role="key" value="anchor_fields"></string>
+                 <list></list>
+                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exportType"></string>
+                 <string value="website"></string>
+                 <string role="key" value="last_full_node_path"></string>
+                 <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.2%20Distribuciones%20de%20frecuencias:Conceptos%20Estad%C3%ADsticos"></string>
+                 <string role="key" value="parent"></string>
+                 <reference key="46"></reference>
+                 <string role="key" value="top_anchors_linked_from_fields"></string>
+                 <list></list>
+                 <string role="key" value="children"></string>
+                 <list></list>
+                </dictionary>
+               </instance>
+               <instance class="exe.engine.node.Node" reference="52">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Variables y su clasificación"></unicode>
+                 <string role="key" value="idevices"></string>
+                 <list>
+                  <instance class="exe.engine.jsidevice.JsIdevice" reference="50">
+                   <dictionary>
+                    <string role="key" value="_title"></string>
+                    <unicode value=""></unicode>
+                    <string role="key" value="_attributes"></string>
+                    <list>
+                     <tuple>
+                      <string value="title"></string>
+                      <list>
+                       <string value="Title"></string>
+                       <int value="0"></int>
+                       <int value="0"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="category"></string>
+                      <list>
+                       <string value="Category"></string>
+                       <int value="0"></int>
+                       <int value="1"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="css-class"></string>
+                      <list>
+                       <string value="CSS class"></string>
+                       <int value="0"></int>
+                       <int value="2"></int>
+                      </list>
+                     </tuple>
+                     <tuple>
+                      <string value="icon"></string>
+                      <list>
+                       <string value="Icon"></string>
+                       <int value="0"></int>
+                       <int value="3"></int>
+                      </list>
+                     </tuple>
+                    </list>
+                    <string role="key" value="_author"></string>
+                    <string value=""></string>
+                    <string role="key" value="_editionFolder"></string>
+                    <string value="text/edition/"></string>
+                    <string role="key" value="_editionResources"></string>
+                    <list>
+                     <string value="text.js"></string>
+                    </list>
+                    <string role="key" value="_exportFolder"></string>
+                    <none></none>
+                    <string role="key" value="_exportResources"></string>
+                    <list></list>
+                    <string role="key" value="_iDeviceDir"></string>
+                    <string value="C:\\Users\\JES\xdaS MORA JUSTO\\AppData\\Roaming\\exe\\scripts\\idevices\\text"></string>
+                    <string role="key" value="_purpose"></string>
+                    <string value=""></string>
+                    <string role="key" value="_tip"></string>
+                    <string value=""></string>
+                    <string role="key" value="_valid"></string>
+                    <bool value="1"></bool>
+                    <string role="key" value="class_"></string>
+                    <unicode value="text"></unicode>
+                    <string role="key" value="edit"></string>
+                    <bool value="0"></bool>
+                    <string role="key" value="emphasis"></string>
+                    <int value="0"></int>
+                    <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                    <int value="1"></int>
+                    <string role="key" value="fields"></string>
+                    <list>
+                     <instance class="exe.engine.field.TextAreaField" reference="51">
+                      <dictionary>
+                       <string role="key" value="_id"></string>
+                       <unicode value="49_2"></unicode>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="50"></reference>
+                       <string role="key" value="_instruc"></string>
+                       <string value=""></string>
+                       <string role="key" value="_name"></string>
+                       <string value=""></string>
+                       <string role="key" value="anchor_names"></string>
+                       <list></list>
+                       <string role="key" value="anchors_linked_from_fields"></string>
+                       <dictionary></dictionary>
+                       <string role="key" value="content_w_resourcePaths"></string>
+                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Una &lt;strong&gt;variable&lt;/strong&gt; es una propiedad característica de la población en estudio, susceptible de tomar diferentes valores, los cuales se pueden observar y medir.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;Las variables pueden ser de dos tipos: &lt;strong&gt;cualitativas y cuantitativas&lt;/strong&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;Las variables &lt;strong&gt;cualitativas&lt;/strong&gt; se clasifican a su vez en &lt;strong&gt;nominales y ordinales&lt;/strong&gt;, en tanto que las variables cuantitativas se clasifican a su vez en discretas y continuas.&lt;/span&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Variables cualitativas:&lt;/strong&gt; son aquellas que no se pueden medir numéricamente ejemplo: nacionalidad, color de la piel, sexo, etc.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;A su vez, las variables cualitativas pueden ser:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt; Nominales:&lt;/strong&gt; son datos que corresponden a categorías que por su naturaleza no admiten un orden. Por ejemplo: sexo (masculino y femenino); carrera de estudio: economía, contabilidad, administración, etc.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Ordinales:&lt;/strong&gt; son aquellos que corresponden a evaluaciones subjetivas que se pueden ordenar o jerarquizar. Por ejemplo: en una competencia artística las posiciones de los ganadores se ordenan o jerarquizan en primer lugar, segundo lugar, tercer lugar, cuarto lugar, etc.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Variables cuantitativas:&lt;/strong&gt; son aquellas que tienen valor numérico como la edad, el precio de un producto, ingresos anuales de un consumidor, etc.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;A su vez, las variables cuantitativas pueden ser:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Discretas:&lt;/strong&gt; estas son aquellas que sólo pueden tomar valores enteros como 1, 2, 8, -4, etc. En este sentido, los hermano en una familia podrán ser: 1, 2, 3..., etc. Sin embargo, nunca podrán ser 1.5 o 2.3.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;strong&gt;Continuas:&lt;/strong&gt; son aquellas que pueden tomar cualquier valor real dentro de un intervalo o rango. Por ejemplo, los litros de leche ordeñados podrán ser 1.5 o 10.3 etc.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'times new roman', times, serif; font-size: 14pt;&quot;&gt;&lt;img src=&quot;resources/descarga.jpg&quot; alt=&quot;Clasificación de variables&quot; title=&quot;clasificación de variables&quot; width=&quot;443&quot; height=&quot;345&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                       <int value="4"></int>
+                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                       <int value="3"></int>
+                       <string role="key" value="htmlTag"></string>
+                       <string value="div"></string>
+                       <string role="key" value="images"></string>
+                       <instance class="exe.engine.galleryidevice.GalleryImages">
+                        <dictionary>
+                         <string role="key" value=".listitems"></string>
+                         <list>
+                          <instance class="exe.engine.galleryidevice.GalleryImage">
+                           <dictionary>
+                            <string role="key" value="_caption"></string>
+                            <instance class="exe.engine.field.TextField">
+                             <dictionary>
+                              <string role="key" value="_id"></string>
+                              <int value="164"></int>
+                              <string role="key" value="_idevice"></string>
+                              <none></none>
+                              <string role="key" value="_instruc"></string>
+                              <string value=""></string>
+                              <string role="key" value="_name"></string>
+                              <string value=""></string>
+                              <string role="key" value="content"></string>
+                              <string value=""></string>
+                              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                              <int value="4"></int>
+                             </dictionary>
+                            </instance>
+                            <string role="key" value="_id"></string>
+                            <unicode value="25_49_2.2"></unicode>
+                            <string role="key" value="_imageResource"></string>
+                            <instance class="exe.engine.resource.Resource" reference="53">
+                             <dictionary>
+                              <string role="key" value="_idevice"></string>
+                              <reference key="50"></reference>
+                              <string role="key" value="_package"></string>
+                              <reference key="1"></reference>
+                              <string role="key" value="_storageName"></string>
+                              <string value="descarga.jpg"></string>
+                              <string role="key" value="_userName"></string>
+                              <string value="c:\\users\\jessmo~1\\appdata\\local\\temp\\tmpkthbov\\descarga.jpg"></string>
+                              <string role="key" value="checksum"></string>
+                              <string value="32c1686b987638104a6fcf3319537d40"></string>
+                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                              <int value="2"></int>
+                              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                              <int value="2"></int>
+                              <string role="key" value="warningMsg"></string>
+                              <string value=""></string>
+                             </dictionary>
+                            </instance>
+                            <string role="key" value="_parent"></string>
+                            <reference key="51"></reference>
+                            <string role="key" value="_thumbnailResource"></string>
+                            <none></none>
+                            <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                            <int value="3"></int>
+                            <string role="key" value="makeThumbnail"></string>
+                            <bool value="0"></bool>
+                           </dictionary>
+                          </instance>
+                         </list>
+                         <string role="key" value="idevice"></string>
+                         <reference key="51"></reference>
+                        </dictionary>
+                       </instance>
+                       <string role="key" value="intlinks_to_anchors"></string>
+                       <dictionary></dictionary>
+                       <string role="key" value="nextImageId"></string>
+                       <int value="3"></int>
+                       <string role="key" value="parentNode"></string>
+                       <reference key="52"></reference>
+                      </dictionary>
+                     </instance>
+                    </list>
+                    <string role="key" value="icon"></string>
+                    <unicode value=""></unicode>
+                    <string role="key" value="id"></string>
+                    <unicode value="25"></unicode>
+                    <string role="key" value="ideviceCategory"></string>
+                    <unicode value="Text and Tasks"></unicode>
+                    <string role="key" value="lastIdevice"></string>
+                    <bool value="0"></bool>
+                    <string role="key" value="nextFieldId"></string>
+                    <int value="3"></int>
+                    <string role="key" value="originalicon"></string>
+                    <string value=""></string>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="52"></reference>
+                    <string role="key" value="systemResources"></string>
+                    <list></list>
+                    <string role="key" value="undo"></string>
+                    <bool value="1"></bool>
+                    <string role="key" value="userResources"></string>
+                    <list>
+                     <reference key="53"></reference>
+                     <instance class="exe.engine.resource.Resource" reference="54">
+                      <dictionary>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="50"></reference>
+                       <string role="key" value="_package"></string>
+                       <reference key="1"></reference>
+                       <string role="key" value="_storageName"></string>
+                       <string value="descarga.jpg"></string>
+                       <string role="key" value="_userName"></string>
+                       <string value="c:\\users\\jessmo~1\\appdata\\local\\temp\\tmpkthbov\\descarga.jpg"></string>
+                       <string role="key" value="checksum"></string>
+                       <string value="32c1686b987638104a6fcf3319537d40"></string>
+                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="warningMsg"></string>
+                       <string value=""></string>
+                      </dictionary>
+                     </instance>
+                     <instance class="exe.engine.resource.Resource" reference="55">
+                      <dictionary>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="50"></reference>
+                       <string role="key" value="_package"></string>
+                       <reference key="1"></reference>
+                       <string role="key" value="_storageName"></string>
+                       <string value="descarga.jpg"></string>
+                       <string role="key" value="_userName"></string>
+                       <string value="c:\\users\\jessmo~1\\appdata\\local\\temp\\tmpkthbov\\descarga.jpg"></string>
+                       <string role="key" value="checksum"></string>
+                       <string value="32c1686b987638104a6fcf3319537d40"></string>
+                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="warningMsg"></string>
+                       <string value=""></string>
+                      </dictionary>
+                     </instance>
+                    </list>
+                    <string role="key" value="version"></string>
+                    <int value="0"></int>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="_id"></string>
+                 <unicode value="14"></unicode>
+                 <string role="key" value="_package"></string>
+                 <reference key="1"></reference>
+                 <string role="key" value="anchor_fields"></string>
+                 <list></list>
+                 <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exportType"></string>
+                 <string value="website"></string>
+                 <string role="key" value="last_full_node_path"></string>
+                 <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Contenido:Unidad%201%20Distribuciones%20de%20Frecuencia:1.2%20Distribuciones%20de%20frecuencias:Variables%20y%20su%20clasificaci%C3%B3n"></string>
+                 <string role="key" value="parent"></string>
+                 <reference key="46"></reference>
+                 <string role="key" value="top_anchors_linked_from_fields"></string>
+                 <list></list>
+                 <string role="key" value="children"></string>
+                 <list></list>
+                </dictionary>
+               </instance>
+              </list>
              </dictionary>
             </instance>
            </list>
@@ -2620,47 +3339,27 @@ Instituto Tecnológico Superior de Xalapa"></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="42">
-       <dictionary>
-        <string role="key" value="_title"></string>
-        <string value=""></string>
-        <string role="key" value="idevices"></string>
-        <list></list>
-        <string role="key" value="_id"></string>
-        <unicode value="8"></unicode>
-        <string role="key" value="_package"></string>
-        <reference key="1"></reference>
-        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-        <int value="2"></int>
-        <string role="key" value="exportType"></string>
-        <string value="website"></string>
-        <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Probabilidad%20y%20Estad%C3%ADstica%20Descriptiva:Tema"></string>
-        <string role="key" value="parent"></string>
-        <reference key="7"></reference>
-        <string role="key" value="children"></string>
-        <list></list>
-       </dictionary>
-      </instance>
      </list>
     </dictionary>
    </instance>
    <unicode role="key" value="10"></unicode>
-   <reference key="19"></reference>
+   <reference key="24"></reference>
    <unicode role="key" value="11"></unicode>
-   <reference key="26"></reference>
+   <reference key="31"></reference>
    <unicode role="key" value="12"></unicode>
-   <reference key="41"></reference>
+   <reference key="46"></reference>
+   <unicode role="key" value="13"></unicode>
+   <reference key="49"></reference>
+   <unicode role="key" value="14"></unicode>
+   <reference key="52"></reference>
    <unicode role="key" value="2"></unicode>
-   <reference key="11"></reference>
+   <reference key="16"></reference>
    <unicode role="key" value="5"></unicode>
    <reference key="4"></reference>
    <unicode role="key" value="7"></unicode>
-   <reference key="10"></reference>
-   <unicode role="key" value="8"></unicode>
-   <reference key="42"></reference>
+   <reference key="15"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="14"></reference>
+   <reference key="19"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value="Realiza el proceso de recopilación, presentación y análisis de información económica-administrativa, para interpretar estadísticas y parámetros en muestras y poblaciones utilizando métodos de cálculo y software estadístico para la toma de decisiones."></unicode>
@@ -2672,7 +3371,7 @@ Aplica la definición de integral y las técnicas de integración para resolver 
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="19"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4057,9 +4756,16 @@ Aplica la definición de integral y las técnicas de integración para resolver 
   <string role="key" value="release"></string>
   <string value="2.4.2"></string>
   <string role="key" value="resources"></string>
-  <dictionary></dictionary>
+  <dictionary>
+   <string role="key" value="32c1686b987638104a6fcf3319537d40"></string>
+   <list>
+    <reference key="53"></reference>
+    <reference key="54"></reference>
+    <reference key="55"></reference>
+   </list>
+  </dictionary>
   <string role="key" value="root"></string>
-  <reference key="7"></reference>
+  <reference key="12"></reference>
   <string role="key" value="scolinks"></string>
   <bool value="0"></bool>
   <string role="key" value="scowsinglepage"></string>
